@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/0*goaFvkjpQM-0p0h6.)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w)
 <h1 align="center">Hi 👋, I'm chandrakanth</h1>
 <h3 align="center">A passionate python programmer and Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
