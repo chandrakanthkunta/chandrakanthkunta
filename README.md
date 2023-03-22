@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm chandrakanth</h1>
 <h3 align="center">A passionate python programmer and Data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakanthkunta&label=Profile%20views&color=0e75b6&style=flat" alt="chandrakanthkunta" /> </p>
 
@@ -26,7 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakanthkunta&" alt="chandrakanthkunta" /></p>
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
